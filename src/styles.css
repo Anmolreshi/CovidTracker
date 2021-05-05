@@ -1,0 +1,74 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  padding: 30px;
+  background-color: rgb(156, 24, 24);
+}
+.title {
+  font-weight: bold;
+  font-size: 8vh;
+  color: red;
+  cursor: pointer;
+}
+.title:hover {
+  color: rgb(173, 24, 24);
+}
+.num {
+  font-size: 2.2vh;
+}
+.y {
+  padding: 6px;
+}
+
+.center {
+  text-align: justify;
+  justify-content: center;
+}
+.center1 {
+  text-align: justify;
+  justify-content: center;
+  font-size: 1.8vh;
+}
+.x {
+  border-radius: 10px;
+}
+.x:hover {
+  transform: scale(1.05);
+  transition: transform 0.7s ease-in-out;
+}
+.back {
+  background-color: rgb(235, 238, 241);
+  padding: 20px;
+  height: max-content;
+  box-shadow: 2px 3px 5px 2px rgb(48, 41, 41);
+}
+.xs {
+  text-align: start;
+  padding: 10px;
+  background-color: rgb(216, 52, 30);
+  color: white;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.xs1 {
+  /* background-color:blueviolet; */
+  width: max-content;
+  padding: 5px;
+}
+.h11 {
+  background-color: rgb(248, 169, 66);
+  padding: 20px;
+  width: max-content;
+}
+.h11:hover {
+  background-color: rgb(231, 147, 36);
+}
+.c11 {
+  font-weight: bold;
+  font-size: 4vh;
+}
+.head1 {
+  font-size: 5vh;
+  font-weight: bold;
+  text-align: justify;
+  justify-content: center;
+}
